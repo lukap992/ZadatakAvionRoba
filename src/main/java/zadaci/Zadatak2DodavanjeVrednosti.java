@@ -26,8 +26,6 @@ public class Zadatak2DodavanjeVrednosti {
         AvionDao = DaoManager.createDao(connectionSource, Avion.class);
         RobaDao = DaoManager.createDao(connectionSource, Roba.class);
 
-        TableUtils.clearTable(connectionSource, Avion.class);
-        TableUtils.clearTable(connectionSource, Roba.class);
 
         Avion a1 = new Avion("Avion1", 34);
         AvionDao.create(a1);

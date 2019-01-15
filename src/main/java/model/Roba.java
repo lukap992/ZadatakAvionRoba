@@ -11,9 +11,9 @@ public class Roba {
 
 
 
-    private static final String POLJE_NAZIV = "naziv";
-    private static final String POLJE_OPIS = "opis";
-    private static final String POLJE_TEZINA = "tezina";
+    public static final String POLJE_NAZIV = "naziv";
+    public static final String POLJE_OPIS = "opis";
+    public static final String POLJE_TEZINA = "tezina";
 
     @DatabaseField(generatedId = true)
     private int id;
