@@ -13,6 +13,7 @@ import java.util.List;
 public class Zadatak3IzmenaVrednosti {
     static Dao<Avion, Integer> avionDao;
     static Dao<Roba, Integer> robaDao;
+    private static JdbcConnectionSource connectionSource;
 
 
     public static void main(String[] args) {
