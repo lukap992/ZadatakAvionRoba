@@ -22,6 +22,7 @@ public class Zadatak1KreiranjeTabela {
             }
         }
     }
-    }
 
 }
+
+
