@@ -30,9 +30,9 @@ public class Roba {
     public Roba(){
 
     }
-    public Roba(int id, String naziv, double tezina){
-        this.id = id;
+    public Roba(String naziv,String opis,  double tezina){
         this.naziv = naziv;
+        this.opis = opis;
         this.tezina = tezina;
     }
 

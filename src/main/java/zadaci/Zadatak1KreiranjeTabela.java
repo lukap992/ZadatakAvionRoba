@@ -26,7 +26,7 @@ public class Zadatak1KreiranjeTabela {
             TableUtils.createTable(connectionSource, Roba.class);
 
 
-            
+
         }catch (Exception e){
             e.printStackTrace();
         }finally {

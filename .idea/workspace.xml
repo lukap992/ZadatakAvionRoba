@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2e1dd1a1-d52f-4a26-bfaa-88b3d3f1a920" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Roba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Roba.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -47,23 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="21" column="69" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="5" selection-start-line="9" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,7 +64,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/model/Avion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="-118">
               <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -98,10 +88,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/model/Roba.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+            <state relative-caret-position="32">
+              <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#854#855#0" expanded="true" />
                 <element signature="e#879#880#0" expanded="true" />
                 <element signature="e#912#913#0" expanded="true" />
                 <element signature="e#940#941#0" expanded="true" />
@@ -137,8 +128,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak4BrisanjeVrednosti.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <caret line="36" column="57" lean-forward="true" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -163,12 +166,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/model.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java" />
         <option value="$PROJECT_DIR$/src/main/java/zadaci/Zadatak3IzmenaVrednosti.java" />
         <option value="$PROJECT_DIR$/src/main/java/zadaci/Zadatak4BrisanjeVrednosti.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/Avion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/model/Roba.java" />
         <option value="$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadaci/Konstante.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Roba.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java" />
       </list>
     </option>
   </component>
@@ -240,7 +244,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547576569694" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547579986532" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -344,20 +348,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="5" selection-start-line="9" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Konstante.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -373,8 +374,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak4BrisanjeVrednosti.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -383,7 +394,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/model/Avion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="-118">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -405,10 +416,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/model/Roba.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        <state relative-caret-position="32">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#854#855#0" expanded="true" />
             <element signature="e#879#880#0" expanded="true" />
             <element signature="e#912#913#0" expanded="true" />
             <element signature="e#940#941#0" expanded="true" />
@@ -428,10 +440,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="69" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
+        <state relative-caret-position="405">
+          <caret line="36" column="57" lean-forward="true" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
